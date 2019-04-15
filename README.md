@@ -1,5 +1,5 @@
 # py-draw-simplicial-complex
-Draws a 2D simplicial complex from a list of simplices, as in [1].
+Draws a 2D simplicial complex from a list of simplices (as in [1]).
 
 Dependencies
 ------------
