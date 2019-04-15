@@ -1,7 +1,7 @@
 # py-draw-simplicial-complex
 Draws a 2D simplicial complex from a list of simplices (as in [1]).
 
-![](Viz_Sociopatterns_Thiers13.png)
+![](Viz_Sociopatterns_Thiers13.png =250x)
 
 Dependencies
 ------------
